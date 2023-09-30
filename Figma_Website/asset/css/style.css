@@ -1,0 +1,153 @@
+body{
+  padding: 0;
+  margin: 0;
+}
+
+.logoimg{
+    margin: 0px;
+    position: relative;
+    top:20px;
+    left: inherit 
+  }
+
+  button{
+    border-radius: 20px;
+  }
+
+  h2{
+    justify-content: center;
+  }
+
+  a{
+     text-decoration: none;
+  }
+  .dot{
+    background-image: url('C:\React\Figma_Website\src\asset\images\Dotpic.jpg');
+    background-size: cover;
+  }
+  li{
+    list-style: none;
+  }
+
+  li a{
+    color: white;
+  }
+
+.card2{
+  position: relative;
+  top: -20px;
+}
+.pink{
+  position: relative;
+  top: -40px;
+  
+}
+
+.hr{
+  width: 20%;
+  text-align: left;
+}
+
+.circle{
+  background-image: url('C:\React\Figma_Website\src\asset\images\circle.jpg');
+  background-repeat: no-repeat;
+  justify-content: end;
+}
+
+.fir1{
+  background-image: url('C:\React\Figma_Website\src\asset\images\fir1.jpg');
+  background-repeat: no-repeat;
+ 
+}
+
+.fir2{
+  background-image: url('C:\React\Figma_Website\src\asset\images\fir2.jpg');
+  background-repeat: no-repeat;
+ 
+}
+
+.fir3{
+  background-image: url('C:\React\Figma_Website\src\asset\images\fir3.jpg');
+  background-repeat: no-repeat;
+ 
+}
+
+.fir4{
+  background-image: url('C:\React\Figma_Website\src\asset\images\fir4.jpg');
+  background-repeat: no-repeat;
+
+}
+
+.fir5{
+  background-image: url('C:\React\Figma_Website\src\asset\images\fir5.jpg');
+  background-repeat: no-repeat;
+ 
+}
+
+.remove{
+  width: 100%;
+  height: 100%;
+}
+
+.mainimg{
+  background-image: url('C:\React\Figma_Website\src\asset\images\service1.jpg'); 
+  background-size: cover;
+}
+
+.img3{
+  position: relative;
+  top: 10%;
+}
+
+.job{
+  Background:rgba(248, 248, 248, 0.959);
+ 
+}
+
+.back{
+  background-image: url("C:\React\Figma_Website\src\asset\images\black.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+ 
+}
+
+.full{
+  background-image: url('C:\React\Figma_Website\src\asset\images\fullimg.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+ 
+}
+
+.contact{
+  background-image: url('C:\React\Figma_Website\src\asset\images\contact.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.con{
+  background-color: rgb(217, 247, 247);
+}
+
+.card3{
+  box-shadow: 0px 0px 2px 2px rgb(248, 247, 247);
+}
+
+.node{
+  position: relative;
+  top: -80px; 
+}
+
+ /* @media only screen and (max-width: 600px) {
+  .move {
+    width: 10%;
+  }
+}  */
+
+
+/* .cardpic{
+  position: absolute;
+  bottom: 85px;
+  top: -40px;       
+  left: 40%;
+} */
